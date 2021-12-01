@@ -1,0 +1,14 @@
+{
+    "domain": "go.contrastsecurity.com",
+    "docsDomain": "pkg.go.dev",
+    "repositories": [
+        {
+            "prefix": "contrast-service",
+            "url": "https://github.com/Contrast-Security-Inc/contrast-service"
+        },
+        {
+            "prefix": "agent",
+            "url": "https://github.com/Contrast-Security-Inc/go-agent"
+        }
+    ]
+}
