@@ -1,5 +1,5 @@
 {
-    "domain": "go.contrastsecurity.com",
+    "domain": "go.contrastsecurity.dev",
     "docsDomain": "pkg.go.dev",
     "repositories": [
         {
@@ -9,6 +9,10 @@
         {
             "prefix": "agent",
             "url": "https://github.com/Contrast-Security-Inc/go-agent"
+        },
+        {
+            "prefix": "protect",
+            "url": "https://github.com/Contrast-Security-Inc/go-protect"
         }
     ]
 }
