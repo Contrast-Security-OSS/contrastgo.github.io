@@ -13,6 +13,18 @@
         {
             "prefix": "protect",
             "url": "https://github.com/Contrast-Security-Inc/go-protect"
+        },
+        {
+            "prefix": "bridge",
+            "url": "https://github.com/Contrast-Security-Inc/bridge"
+        },
+        {
+            "prefix": "test",
+            "url": "https://github.com/Contrast-Security-Inc/test"
+        },
+        {
+            "prefix": "net",
+            "url": "https://github.com/Contrast-Security-Inc/net"
         }
     ]
 }
