@@ -4,27 +4,27 @@
     "repositories": [
         {
             "prefix": "contrast-service",
-            "url": "https://github.com/Contrast-Security-Inc/contrast-service"
+            "url": "git@github.com:Contrast-Security-Inc/contrast-service"
         },
         {
             "prefix": "agent",
-            "url": "https://github.com/Contrast-Security-Inc/go-agent"
+            "url": "git@github.com:Contrast-Security-Inc/go-agent"
         },
         {
             "prefix": "protect",
-            "url": "https://github.com/Contrast-Security-Inc/go-protect"
+            "url": "git@github.com:Contrast-Security-Inc/go-protect"
         },
         {
             "prefix": "bridge",
-            "url": "https://github.com/Contrast-Security-Inc/bridge"
+            "url": "git@github.com:Contrast-Security-Inc/bridge"
         },
         {
             "prefix": "test",
-            "url": "https://github.com/Contrast-Security-Inc/test"
+            "url": "git@github.com:Contrast-Security-Inc/test"
         },
         {
             "prefix": "net",
-            "url": "https://github.com/Contrast-Security-Inc/net"
+            "url": "git@github.com:Contrast-Security-Inc/net"
         }
     ]
 }
