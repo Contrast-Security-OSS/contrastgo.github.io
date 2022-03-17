@@ -25,6 +25,10 @@
         {
             "prefix": "net",
             "url": "https://github.com/Contrast-Security-Inc/net"
+        },
+        {
+            "prefix": "config",
+            "url": "https://github.com/Contrast-Security-Inc/bridge-config"
         }
     ]
 }
