@@ -29,6 +29,11 @@
         {
             "prefix": "config",
             "url": "https://github.com/Contrast-Security-Inc/bridge-config"
+        },
+        {
+            "prefix": "log",
+            "url": "https://github.com/Contrast-Security-Inc/bridge-log"
         }
+    ]
     ]
 }
