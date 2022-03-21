@@ -33,6 +33,10 @@
         {
             "prefix": "log",
             "url": "https://github.com/Contrast-Security-Inc/bridge-log"
+        },
+        {
+            "prefix": "hooks",
+            "url": "https://github.com/Contrast-Security-Inc/bridge-hooks"
         }
     ]
 }
